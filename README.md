@@ -1,7 +1,7 @@
 # Opa, Joãozin aqui!! 
 ## Desenvolvedor Web Front-end
 
-:construction: Desenvolvendo habilidades e conhecimento em ReactJS, Typescript, Javascript, HTML e CSS <br>
+:construction: Desenvolvendo habilidades e conhecimentos em ReactJS, Typescript, Javascript, HTML e CSS <br>
 :iphone: Estagiando na Arpia Tecnologia, desenvolvendo features e correções de Bugs em flutter web e mobile <br>
 :chart_with_upwards_trend: Buscando cada dia o crescimento intelectual e empresarial <br>
 :package: Determinado e com curiosidade em buscar novos conhecimentos <br>
